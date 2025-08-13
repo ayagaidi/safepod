@@ -1,0 +1,21 @@
+return [
+    // ...existing translations...
+    'insufficient_stock' => 'الكمية غير كافية',
+    'requested_quantity' => 'الكمية المطلوبة',
+    'available_stock' => 'الكمية المتوفرة',
+    'error_occurred' => 'حدث خطأ',
+    'added_to_cart' => 'تمت الإضافة إلى السلة',
+    'cart_cleared' => 'تم إفراغ السلة بنجاح',
+    'invalid_request_method' => 'طريقة الطلب غير صالحة',
+    'select_color_or_size' => 'اختر اللون أو الموصفات',
+    'please_select_color_or_size' => 'يرجى اختيار اللون أو الموصفات قبل الإضافة إلى السلة',
+    'error_adding_to_cart' => 'خطأ في الإضافة إلى السلة',
+    'try_again_later' => 'يرجى المحاولة لاحقاً',
+    'discount_available' => 'الخصم متاح',
+    'code' => 'الكود',
+    'code_ar' => 'الكود',
+    'categories' => 'الفئات',
+    'no_colors_available' => 'لا توجد ألوان متوفرة',
+    'no_sizes_available' => 'لا توجد أحجام متوفرة',
+    'lyd' => 'دينار ليبي',
+];

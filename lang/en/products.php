@@ -1,0 +1,21 @@
+return [
+    // ...existing translations...
+    'insufficient_stock' => 'Insufficient stock available',
+    'requested_quantity' => 'Requested quantity',
+    'available_stock' => 'Available stock',
+    'error_occurred' => 'An error occurred',
+    'added_to_cart' => 'Added to cart',
+    'cart_cleared' => 'Cart cleared successfully',
+    'invalid_request_method' => 'Invalid request method',
+    'select_color_or_size' => 'Select Color or Size',
+    'please_select_color_or_size' => 'Please select a color or size before adding to cart',
+    'error_adding_to_cart' => 'Error adding to cart',
+    'try_again_later' => 'Please try again later',
+    'discount_available' => 'Discount available',
+    'code' => 'Code',
+    'code_ar' => 'الكود',
+    'categories' => 'Categories',
+    'no_colors_available' => 'No colors available',
+    'no_sizes_available' => 'No sizes available',
+    'lyd' => 'LYD',
+];

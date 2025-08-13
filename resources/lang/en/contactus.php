@@ -1,0 +1,40 @@
+<?php
+
+return [
+'inbox'=>' mail',
+'name'=>' name',
+'email'=>' mail',
+'message'=>' message',
+'SendMessage'=>' send message',
+'nameR'=>'Please enter your name',
+'emailR'=>' Please enter your email',
+'messageR'=>' Please enter your message',
+'sendsedd'=>' The message was sent successfully',
+'fsend'=>' The message was sent failed',
+'contactus'=>'Contact Us',
+'logofcontactuspage'=>'Log of the Contact Us page',
+'email'=>'Email',
+'phone'=>'Phone Number',
+'edit'=>'Edit',
+'email_R'=>'Please enter your email',
+'phone_R'=>'Please enter your phone number',
+'phone_R'=>'Please enter your phone number',
+'adress'=>'Address in Arabic',
+'adressen'=>'Address in English',
+'adress_R'=>'Please enter your address in Arabic',
+'adressen_R'=>'Please enter your address in English',
+'lan'=>'Longitude',
+'long'=>'Latitude',
+'successcityedit'=>'Edit successful',
+'logeereditcitieseccess'=>'Record edit successful',
+'logeereditcityfaul'=>'Edit failed to log our contact information',
+
+'indboxpage'=>'Mail Page',
+
+'indboxpage'=>'Mail Page',
+'created_at'=>'Date sent',
+'openhours' => 'working hours',
+'ourinformation' => 'our information',
+'our_location' => 'Our Location',
+
+];
