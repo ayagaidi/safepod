@@ -14,7 +14,7 @@
         <!-- Printable Section for Printing -->
         <div class="col-md-12 mt-4 printable-section">
             <div class="box-content" >
-                <h4 class="box-title" style="color: #e54d61;">تفاصيل عملية بيع</h4>
+                <h4 class="box-title" style="color: #2cb3e8 ;">تفاصيل عملية بيع</h4>
 
                 <div class="row">
                     <!-- Display Receipt Information -->
@@ -31,8 +31,8 @@
                     <!-- Display Items -->
                     <div class="col-md-12 mt-3">
                         <h5><strong>العناصر:</strong></h5>
-                        <table class="table table-bordered" style="background-color: #ffffff; border-color: #e54d61;">
-                            <thead style="background-color: #e54d61; color: white;">
+                        <table class="table table-bordered" style="background-color: #ffffff; border-color: #2cb3e8 ;">
+                            <thead style="background-color: #2cb3e8 ; color: white;">
                                 <tr>
                                     <th>الصورة</th>
                                     <th>اسم المنتج</th>
@@ -81,7 +81,7 @@
         }
 
         .table-bordered th, .table-bordered td {
-            border: 1px solid #e54d61 !important;
+            border: 1px solid #2cb3e8  !important;
         }
 
         .table th, .table td {
@@ -89,7 +89,7 @@
         }
 
         .table th {
-            background-color: #e54d61;
+            background-color: #2cb3e8 ;
             color: white;
         }
 
@@ -107,8 +107,8 @@
         }
 
         .btn-secondary {
-            background-color: #e54d61 !important;
-            border-color: #e54d61 !important;
+            background-color: #2cb3e8  !important;
+            border-color: #2cb3e8  !important;
         }
 
         /* Hide all content except the printable section during print */

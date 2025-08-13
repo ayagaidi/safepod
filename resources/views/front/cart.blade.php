@@ -130,7 +130,7 @@
                                     {{ __('products.agree_to_terms') }}
                                 </label>
                                 <div class="mt-2">
-                                    <a href="{{ route('policies') }}" style="color: #f78259;" target="_blank" class="text-primary hover:underline">
+                                    <a href="{{ route('policies') }}" style="color: #2cb3e8;" target="_blank" class="text-primary hover:underline">
                                         {{ __('products.terms_and_policies') }}
                                     </a>
                                 </div>
@@ -148,10 +148,10 @@
                                 </div>
                             </div>
                             <div class="block-button flex flex-col items-center gap-y-4 mt-5">
-                                <button type="submit" class="checkout-btn button-main text-center w-full" style="background-color: #f78259;" disabled>
+                                <button type="submit" class="checkout-btn button-main text-center w-full" style="background-color: #2cb3e8;" disabled>
                                     {{ __('products.process_to_checkout') }}
                                 </button>
-                                <a class="text-button hover-underline" href="{{ route('all_products') }}" style="color: #f78259;">
+                                <a class="text-button hover-underline" href="{{ route('all_products') }}" style="color: #2cb3e8;">
                                     {{ __('products.continue_shopping') }}
                                 </a>
                             </div>

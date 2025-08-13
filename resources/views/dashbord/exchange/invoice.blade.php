@@ -28,7 +28,7 @@
             align-items: center;
             padding-bottom: 15px;
             margin-bottom: 20px;
-            border-bottom: 4px solid #e54d61;
+            border-bottom: 4px solid #2cb3e8 ;
         }
         .header img {
             max-height: 80px;
@@ -36,7 +36,7 @@
         .invoice-title {
             font-size: 28px;
             font-weight: bold;
-            color: #e54d61;
+            color: #2cb3e8 ;
         }
         .details-table, .items-table {
             width: 100%;
@@ -49,7 +49,7 @@
             font-size: 16px;
         }
         .items-table th {
-            background: #e54d61;
+            background: #2cb3e8 ;
             color: white;
         }
         .total {
@@ -68,7 +68,7 @@
             width: 100%;
             padding: 12px;
             font-size: 18px;
-            background: #e54d61;
+            background: #2cb3e8 ;
             color: white;
             border: none;
             cursor: pointer;
@@ -76,7 +76,7 @@
             border-radius: 5px;
         }
         .print-button:hover {
-            background: #e54d61;
+            background: #2cb3e8 ;
         }
         @media print {
             body {

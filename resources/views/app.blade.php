@@ -226,7 +226,7 @@ data-sticky-logo="{{ asset('logoo.png') }}">
                         <!-- FOOTER INFO -->
                         <div class="col-sm-6 col-lg-3">
                             <div class="footer-info mb-30">
-                                <h5 class="h5-md text-uppercase mb-3" style="color: #e54d61;">@lang('footer.address')</h5>
+                                <h5 class="h5-md text-uppercase mb-3" style="color: #2cb3e8 ;">@lang('footer.address')</h5>
                                 @if (\Session::get('language') == 'ar')
                                 <p> {{ $Contactus->adress }}</p>
                             @elseif(\Session::get('language') == 'en')
@@ -240,7 +240,7 @@ data-sticky-logo="{{ asset('logoo.png') }}">
                         <!-- WORKING HOURS -->
                         <div class="col-sm-6 col-lg-3">
                             <div class="footer-info mb-30">
-                                <h5 class="h5-md text-uppercase mb-3" style="color: #e54d61;">@lang('footer.working_hours') </h5>
+                                <h5 class="h5-md text-uppercase mb-3" style="color: #2cb3e8 ;">@lang('footer.working_hours') </h5>
                                 @if (\Session::get('language') == 'ar')
                                 <p>{{ $Contactus->ourworksa }}</p>
                             @elseif(\Session::get('language') == 'en')
@@ -254,11 +254,11 @@ data-sticky-logo="{{ asset('logoo.png') }}">
                         <!-- FOOTER CONTACTS -->
                         <div class="col-sm-6 col-lg-3">
                             <div class="footer-contacts mb-30">
-                                <h5 class="h5-md text-uppercase mb-3" style="color: #e54d61;">@lang('footer.order_now') </h5>
+                                <h5 class="h5-md text-uppercase mb-3" style="color: #2cb3e8 ;">@lang('footer.order_now') </h5>
                                 <p>@lang('footer.call_us')</p>
                                 <p class="mt-3">
                                     <a href="{{ $Contactus->phonenumber }}" class="yellow-color"
-                                        style="color: #e54d61; font-size: 1.2rem; font-weight: bold;">
+                                        style="color: #2cb3e8 ; font-size: 1.2rem; font-weight: bold;">
                                         {{ $Contactus->phonenumber }}
                                     </a>
                                 </p>
@@ -268,17 +268,17 @@ data-sticky-logo="{{ asset('logoo.png') }}">
                         <!-- FOOTER SOCIAL LINKS -->
                         <div class="col-sm-6 col-lg-3">
                             <div class="footer-socials-links mb-30">
-                                <h5 class="h5-md text-uppercase mb-3" style="color: #e54d61;">@lang('footer.follow_us')</h5>
+                                <h5 class="h5-md text-uppercase mb-3" style="color: #2cb3e8 ;">@lang('footer.follow_us')</h5>
                                 <ul class="foo-socials text-center list-unstyled d-flex justify-content-center gap-3">
                                     <li>
                                         <a href="https://www.facebook.com/profile.php?id=61561335121913"
-                                            class="ico-facebook" style="color: #e54d61; font-size: 1.5rem;">
+                                            class="ico-facebook" style="color: #2cb3e8 ; font-size: 1.5rem;">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/colorbeauty.lib/" class="ico-instagram"
-                                            style="color: #e54d61; font-size: 1.5rem;">
+                                        <a href="https://www.instagram.com/safepod.lib/" class="ico-instagram"
+                                            style="color: #2cb3e8 ; font-size: 1.5rem;">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
@@ -292,7 +292,7 @@ data-sticky-logo="{{ asset('logoo.png') }}">
                     <!-- FOOTER COPYRIGHT -->
                     <div class="bottom-footer mt-5 pt-4" style="border-top: 1px solid #444;">
                         <p class="mb-0" style="color: #aaa; font-size: 0.9rem;">
-                            &copy; 2024 <span style="color: #e54d61;">colorbeauty.ly</span> - جميع الحقوق محفوظة.
+                            &copy; 2024 <span style="color: #2cb3e8 ;">safepod.ly</span> - جميع الحقوق محفوظة.
                         </p>
                     </div>
                     <!-- END FOOTER COPYRIGHT -->

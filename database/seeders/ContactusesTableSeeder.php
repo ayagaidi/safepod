@@ -15,7 +15,7 @@ class ContactusesTableSeeder extends Seeder
     public function run()
     {
         DB::table('contactuses')->insert([
-            'email' => 'info@solidarity.ly',
+            'email' => 'info@safepod.ly',
             'phonenumber' => '+218910000000',
             'adress' => 'Tripoli',
             'adressen' => 'Tripoli',
@@ -34,12 +34,12 @@ class ContactusesTableSeeder extends Seeder
 Saturday: 10:00AM - 8:30PM
 
 Sunday: 12:00PM - 5:00PM',
-            'facebook_url' => 'https://facebook.com/solidarity',
-            'instagram_url' => 'https://instagram.com/solidarity',
-            'twitter_url' => 'https://twitter.com/solidarity',
-            'linkedin_url' => 'https://linkedin.com/company/solidarity',
-            'youtube_url' => 'https://youtube.com/solidarity',
-            'pinterest_url' => 'https://pinterest.com/solidarity',
+            'facebook_url' => 'https://facebook.com/safepod',
+            'instagram_url' => 'https://instagram.com/safepod',
+            'twitter_url' => 'https://twitter.com/safepod',
+            'linkedin_url' => 'https://linkedin.com/company/safepod',
+            'youtube_url' => 'https://youtube.com/safepod',
+            'pinterest_url' => 'https://pinterest.com/safepod',
         ]);
     }
 }

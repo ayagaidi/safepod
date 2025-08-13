@@ -26,7 +26,7 @@
             $("#sal-basic").on("click", function() {
                 swal({
                     title: "Here's a message!",
-                    confirmButtonColor: '#e54d61'
+                    confirmButtonColor: '#2cb3e8 '
                 });
                 return false;
             });
@@ -37,7 +37,7 @@
                 swal({
                     title: "Here's a message!",
                     text: "It's pretty, isn't it?",
-                    confirmButtonColor: '#e54d61'
+                    confirmButtonColor: '#2cb3e8 '
                 });
                 return false;
             });
@@ -49,7 +49,7 @@
                     title: "Good job!",
                     text: "You clicked the button!",
                     type: 'success',
-                    confirmButtonColor: '#e54d61'
+                    confirmButtonColor: '#2cb3e8 '
                 });
                 return false;
             });
@@ -74,7 +74,7 @@
                             title: "Deleted!",
                             text: "Your imaginary file has been deleted.",
                             type: "success",
-                            confirmButtonColor: '#e54d61',
+                            confirmButtonColor: '#2cb3e8 ',
                         });
                     } else {
                         swal({
@@ -95,7 +95,7 @@
                     title: "Sweet!",
                     text: "Here's a custom image.",
                     imageUrl: "assets/images/avatar.png",
-                    confirmButtonColor: '#e54d61',
+                    confirmButtonColor: '#2cb3e8 ',
                 });
                 return false;
             });
@@ -107,7 +107,7 @@
                     title: "HTML <small>Title</small>!",
                     text: 'A custom <span style="color:#F8BB86">html<span> message.',
                     html: true,
-                    confirmButtonColor: '#e54d61',
+                    confirmButtonColor: '#2cb3e8 ',
                 });
                 return false;
             });
@@ -135,7 +135,7 @@
                     closeOnConfirm: false,
                     animation: "slide-from-top",
                     inputPlaceholder: "Write something",
-                    confirmButtonColor: '#e54d61',
+                    confirmButtonColor: '#2cb3e8 ',
                 }, function(inputValue) {
                     if (inputValue === false) return false;
                     if (inputValue === "") {
@@ -150,7 +150,7 @@
                         title: "Nice!",
                         text: "You wrote: " + inputValue,
                         type: 'success',
-                        confirmButtonColor: '#e54d61',
+                        confirmButtonColor: '#2cb3e8 ',
                     });
                 });
                 return false;

@@ -27,7 +27,7 @@
                     <img src="{{ asset('colorico.ico') }}" alt="شعار الشركة" style="max-width: 150px; margin-bottom: 20px;">
                 </div>
                 
-                <h4 class="box-title" style="color: #e54d61; font-size: 24px; font-weight: bold; margin-bottom: 20px;">تفاصيل إذن الاستلام</h4>
+                <h4 class="box-title" style="color: #2cb3e8 ; font-size: 24px; font-weight: bold; margin-bottom: 20px;">تفاصيل إذن الاستلام</h4>
 
                 <div class="text-right" style="margin-bottom: 20px;">
                     <p><strong>رقم إذن الاستلام:</strong> {{ $receipt->receiptnumber }}</p>
@@ -38,7 +38,7 @@
                 <!-- جدول العناصر -->
                 <table class="table table-bordered text-center">
                     <thead style="text-align: center">
-                        <tr style="background: #e54d61; color: white;">
+                        <tr style="background: #2cb3e8 ; color: white;">
                             <th style="text-align: center">Barcode</th>
                             <th style="text-align: center">صورة المنتج</th>
                             <th style="text-align: center">اسم منتج</th>
@@ -83,7 +83,7 @@
             newWindow.document.write('body { font-family: Arial, sans-serif; text-align: right; direction: rtl; }');
             newWindow.document.write('.table { width: 100%; border-collapse: collapse; border: 1px solid #000; }');
             newWindow.document.write('.table th, .table td { border: 1px solid #000; padding: 8px; text-align: center; }');
-            newWindow.document.write('.table th { background-color: #e54d61; color: white; }');
+            newWindow.document.write('.table th { background-color: #2cb3e8 ; color: white; }');
             newWindow.document.write('img { display: block; margin: 0 auto 20px; }');
             newWindow.document.write('</style>');
     

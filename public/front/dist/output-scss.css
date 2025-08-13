@@ -606,7 +606,7 @@ textarea:focus {
     font-weight: 600;
     text-transform: uppercase;
     color: var(--white);
-    background-color: #E54D61;
+    background-color: #2cb3e8;
     padding: 16px 40px;
     border-radius: 12px;
     display: inline-block;
@@ -2141,7 +2141,7 @@ textarea:focus {
 }
 
 .header-menu.fixed.style-marketplace {
-    background-color: #e54d61;
+    background-color: #2cb3e8;
 }
 
 @keyframes animateHeader {
@@ -2826,7 +2826,7 @@ textarea:focus {
 .product-item .quick-view-btn:hover,
 .product-item .add-cart-btn:hover,
 .product-item .quick-view-btn-list:hover {
-    background-color: #F78259;
+    background-color: #2cb3e8;
     color: var(--white);
     cursor: pointer;
 }

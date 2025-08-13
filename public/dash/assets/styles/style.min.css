@@ -56,7 +56,7 @@ input {
 a {
     text-decoration: none!important;
     outline: none;
-    color: #e54d61
+    color: #2cb3e8
 }
 
 a:active,
@@ -64,7 +64,7 @@ a:focus,
 a:hover {
     text-decoration: none!important;
     outline: none;
-    color: #e54d61
+    color: #2cb3e8
 }
 
 button,
@@ -160,7 +160,7 @@ label {
 }
 
 .fa-hover:hover {
-    background: #e54d61;
+    background: #2cb3e8;
     color: #ffffff
 }
 
@@ -627,24 +627,24 @@ h4 strong {
 }
 
 .btn-primary {
-    background: #e54d61
+    background: #2cb3e8
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-    background: #f78259!important
+    background: #2cb3e8!important
 }
 
 .btn-primary.btn-bordered {
-    border-color: #e54d61;
-    color: #e54d61
+    border-color: #2cb3e8;
+    color: #2cb3e8
 }
 
 .btn-primary.btn-bordered:active,
 .btn-primary.btn-bordered:focus,
 .btn-primary.btn-bordered:hover {
-    border-color: #e54d61;
+    border-color: #2cb3e8;
     color: #ffffff
 }
 
@@ -834,7 +834,7 @@ h4 strong {
 }
 
 .bg-primary {
-    background-color: #e54d61!important
+    background-color: #2cb3e8 !important
 }
 
 .bg-success {
@@ -979,7 +979,7 @@ h4 strong {
 .table>thead>tr.primary>th,
 .table>thead>tr>td.primary,
 .table>thead>tr>th.primary {
-    background: #e54d61
+    background: #2cb3e8
 }
 
 .table>tbody>tr.danger>td,
@@ -1020,7 +1020,7 @@ h4 strong {
     width: 260px;
     height: 100%;
     padding-top: 50px;
-    background: #e54d61;
+    background: #00548b;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 1px 1px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 1px 1px rgba(0, 0, 0, 0.05);
     -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -1075,7 +1075,7 @@ h4 strong {
     z-index: 20;
     right: 0px;
     padding: 0px 20px 0px 70px;
-    background: #e54d61;
+    background: #00548b;
     color: #ffff;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.14);
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.14);
@@ -1215,7 +1215,7 @@ h4 strong {
     white-space: nowrap;
     overflow: hidden;
     color: #ffff;
-    background: #e54d61;
+    background: #00548b;
     font-weight: 500
 }
 
@@ -1336,7 +1336,7 @@ h4 strong {
 }
 
 .user .control-list a:hover {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .user .name {
@@ -1356,7 +1356,7 @@ h4 strong {
 
 @media (min-width:1025px) {
     .user .name a:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -1426,7 +1426,7 @@ h4 strong {
 
 .navigation .menu a.active,
 .navigation .menu a.current {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .navigation .menu a i {
@@ -1487,7 +1487,7 @@ h4 strong {
 }
 
 .navigation .menu>li.current>a {
-    background: #f78259;
+    background: #2cb3e8;
     color: #ffffff
 }
 
@@ -1496,7 +1496,7 @@ h4 strong {
 }
 
 .navigation .menu>li.current .current>a {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .navigation .menu>li.current .sub-menu {
@@ -1648,7 +1648,7 @@ h4 strong {
     }
     .menu-active .navigation .menu>li:hover>a {
         width: 260px;
-        background: #f78259;
+        background: #2cb3e8;
         color: #ffffff;
         padding-left: 90px
     }
@@ -1856,7 +1856,7 @@ h4 strong {
 }
 
 .fixed-navbar .ico-item.toggle-hover .toggle-content .read-more:hover {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .fixed-navbar .ico-item.toggle-hover.active .toggle-content {
@@ -1932,7 +1932,7 @@ h4 strong {
 }
 
 .fixed-navbar .sub-ico-item a:hover {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 @media (max-width:479px) {
@@ -1956,7 +1956,7 @@ h4 strong {
 
 @media (min-width:1025px) {
     .footer a:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -2088,7 +2088,7 @@ h4 strong {
 
 @media (min-width:1025px) {
     .box-content .dropdown.js__drop_down .sub-menu a:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -2388,7 +2388,7 @@ h4 strong {
 
 .fc .fc-event,
 .fc .fc-event-dot {
-    background: #e54d61;
+    background: #2cb3e8;
     transition: none;
     -moz-transition: none;
     -webkit-transition: none
@@ -2564,7 +2564,7 @@ h4 strong {
 }
 
 .dataTables_wrapper .dataTable .group {
-    background-color: #e54d61;
+    background-color: #2cb3e8;
     color: #ffffff
 }
 
@@ -2588,7 +2588,7 @@ h4 strong {
 
 table.focus-on>tbody>tr.focused.unfocused>td,
 table.focus-on>tbody>tr.focused.unfocused>th {
-    background: #e54d61;
+    background: #2cb3e8;
     color: #ffffff
 }
 
@@ -2708,7 +2708,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .inbox-list .name {
-    color: #e54d61;
+    color: #2cb3e8;
     margin: 0px;
     transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -2725,7 +2725,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 @media (min-width:1025px) {
     .inbox-list .name:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -2778,7 +2778,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
     font-size: 16px;
     line-height: 50px;
     color: #ffff;
-    background: #e54d61;
+    background: #00548b;
 }
 
 .morris-chart-detail-list {
@@ -2820,7 +2820,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 .notice-blue {
     color: #ffffff;
-    background: #e54d61
+    background: #2cb3e8
 }
 
 .notice-purple {
@@ -2907,7 +2907,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 @media (min-width:1025px) {
     .notice-list .name:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -3038,7 +3038,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .notice-popup .notice-read-more:hover {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 #message-popup {
@@ -3169,7 +3169,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .radio.primary label:after {
-    background: #e54d61
+    background: #2cb3e8
 }
 
 .radio.success label:after {
@@ -3201,7 +3201,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .radio.primary input[type=radio]:checked+label:before {
-    border-color: #e54d61
+    border-color: #2cb3e8
 }
 
 .radio.success input[type=radio]:checked+label:before {
@@ -3282,7 +3282,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 @media (min-width:1025px) {
     .searchform .button-search:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
@@ -3392,8 +3392,8 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .switch.primary input[type=checkbox]:checked+label:before {
-    background: #e54d61;
-    border-color: #e54d61
+    background: #2cb3e8;
+    border-color: #2cb3e8
 }
 
 .switch.success input[type=checkbox]:checked+label:before {
@@ -3703,12 +3703,12 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .box.box-solid.box-primary {
-    border: 1px solid #e54d61
+    border: 1px solid #2cb3e8
 }
 
 .box.box-solid.box-primary>.box-header {
     color: #ffffff;
-    background-color: #e54d61
+    background-color: #2cb3e8
 }
 
 .box.box-solid.box-primary>.box-header .btn,
@@ -3947,7 +3947,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 .box-body .nav li.active a {
     background: #ffffff;
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .box-body .nav a {
@@ -3960,7 +3960,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 .box-body .nav a:hover {
     background: #ffffff;
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .box-body .nav .fa {
@@ -4046,7 +4046,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .mailbox-messages .unread>td:first-of-type {
-    border-left: 5px solid #e54d61
+    border-left: 5px solid #2cb3e8
 }
 
 .mailbox-messages .unread .mailbox-subject span {
@@ -4270,7 +4270,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .frm-single .frm-title {
-    color: #e54d61;
+    color: #2cb3e8;
     text-align: center;
     font-size: 16px;
     padding-bottom: 20px
@@ -4287,7 +4287,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
     height: 40px;
     padding: 0px;
     padding-left: 30px;
-    border: 1px solid #e54d61;
+    border: 1px solid #2cb3e8;
     font-size: 14px;
     line-height: 38px;
     border-left: 3px solid #999;
@@ -4295,7 +4295,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .frm-single .frm-input .frm-inp:focus {
-    border-color: #e54d61;
+    border-color: #2cb3e8;
     padding-left: 10px
 }
 
@@ -4340,7 +4340,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
     width: 100%;
     height: 36px;
     border: none;
-    background: #e54d61;
+    background: #2cb3e8;
     color: #ffffff;
     margin-bottom: 15px;
     border-radius: 20px !important;
@@ -4348,7 +4348,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 @media (min-width:1025px) {
     .frm-single .frm-submit:hover {
-        background: #e54d61
+        background: #2cb3e8
     }
 }
 
@@ -4764,7 +4764,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .profile-avatar .btn-inbox {
-    background: #e54d61
+    background: #2cb3e8
 }
 
 .profile-friends-list li {
@@ -4955,7 +4955,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 .pricing-table .col-first .thead {
     border: 1px solid #e9eaeb;
     background: none;
-    color: #e54d61;
+    color: #2cb3e8;
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
@@ -4969,7 +4969,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 .pricing-table .thead {
     height: 110px;
     padding: 13px;
-    background: #e54d61;
+    background: #2cb3e8;
     color: #fff;
     vertical-align: middle
 }
@@ -4983,7 +4983,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .pricing-table .thead.bg-main-2 {
-    background-color: #e54d61
+    background-color: #2cb3e8
 }
 
 .pricing-table .thead.bg-blue-1 {
@@ -4995,7 +4995,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .pricing-table .thead.bg-blue-3 {
-    background-color: #e54d61
+    background-color: #2cb3e8
 }
 
 .pricing-table .price {
@@ -5064,7 +5064,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .pricing-table .td .fa-check {
-    color: #e54d61;
+    color: #2cb3e8;
     font-size: 24px;
     line-height: 48px
 }
@@ -5105,12 +5105,12 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 }
 
 .pricing-table .col-featured .td .btn-order {
-    background: #e54d61
+    background: #2cb3e8
 }
 
 @media (min-width:1025px) {
     .pricing-table .td .btn-order:hover {
-        background: #e54d61
+        background: #2cb3e8
     }
     .pricing-table .col:hover:before {
         opacity: 1
@@ -5351,12 +5351,12 @@ table.focus-on>tbody>tr.focused.unfocused>th {
 
 @media (min-width:1025px) {
     .isotope-filter .filter-controls a:hover {
-        color: #e54d61
+        color: #2cb3e8
     }
 }
 
 .isotope-filter .filter-controls .js__active {
-    color: #e54d61
+    color: #2cb3e8
 }
 
 .modal-content {
@@ -5377,7 +5377,7 @@ table.focus-on>tbody>tr.focused.unfocused>th {
     line-height: 24px;
     padding: 9px 14px;
     height: 45px;
-    border-color: #e54d61;
+    border-color: #2cb3e8;
     box-shadow: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;

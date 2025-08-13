@@ -591,8 +591,8 @@ html[dir=rtl] .frm-single .frm-input .frm-ico {
 
 html[dir=rtl] .frm-single .frm-input .frm-inp {
     padding-right: 30px;
-    border-left: 1px solid #e54d61;
-    border-right: 3px solid #e54d61;
+    border-left: 1px solid #2cb3e8;
+    border-right: 3px solid #2cb3e8;
 }
 
 html[dir=rtl] .frm-single .frm-submit i {
@@ -631,7 +631,7 @@ html[dir=rtl] .mailbox-controls .inbox-text {
 
 html[dir=rtl] .mailbox-messages .unread>td:first-of-type {
     border-left-width: 0;
-    border-right: 5px solid #e54d61
+    border-right: 5px solid #2cb3e8
 }
 
 html[dir=rtl] .notice-popup {

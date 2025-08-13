@@ -8,11 +8,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     {{-- logocoloer.ico --}}
-    <link rel="icon" type="image/png" sizes="56x56" href="{{ asset('logocoloer.ico') }}">
+    <link rel="icon" type="image/png" sizes="56x56" href="{{ asset('logo.ico') }}">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>colorbeauty-@yield('title')</title>
+    <title>safepod-@yield('title')</title>
 
     
     <link rel="stylesheet" href="{{ asset('dash/assets/styles/style.min.css') }}">
@@ -26,7 +26,7 @@
 
 </head>
 
-<body style="font-family:Cairo; background: url({{ asset('bkco.png') }}); position: relative;">
+<body style="font-family:Cairo ">
 
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); z-index: -1;"></div>
 
@@ -36,9 +36,7 @@
                 @yield('content')
             </div>
             <div class="col-md-6" style="text-align: center; display: flex; align-items: center; justify-content: center;">
-                <div>
-                    <h1 style="color: white; font-size: 2.5rem; font-weight: bold; margin-bottom: 20px;">Welcome to Color Beauty</h1>
-                </div>
+                <img src="{{ asset('logoo.png') }}" alt="Logo" style="max-width: 100%; height: auto; margin-top: 20px;">
             </div>
         </div>
     </div>

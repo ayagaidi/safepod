@@ -23,7 +23,7 @@ class CreateAdminUserSeeder extends Seeder
             'first_name' => 'Super',
             'last_name' => 'Admin',
             'cities_id' => '1',
-            'email' => 'superadmin@colorbeauty.ly',
+            'email' => 'superadmin@safepod.ly',
             'password' => bcrypt('12345678'),
             'phonenumber' => '920000000',
             'active'=>1,

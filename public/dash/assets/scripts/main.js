@@ -141,7 +141,7 @@
                             title: "Logout success",
                             text: "See you later!",
                             type: "success",
-                            confirmButtonColor: '#e54d61',
+                            confirmButtonColor: '#2cb3e8 ',
                         });
                     } else {}
                 });
@@ -309,7 +309,7 @@
                             case "circle":
                                 options = {
                                     chartArea: { left: 0, top: 0, width: '100%', height: '75%' },
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes,
                                     legend: {
@@ -345,7 +345,7 @@
                                             color: '#484848'
                                         }
                                     },
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes
                                 }
@@ -354,7 +354,7 @@
                             case "column":
                                 options = {
                                     chartArea: { left: 30, top: 10, width: '100%', height: '80%' },
-                                    colors: ["#e54d61"],
+                                    colors: ["#2cb3e8 "],
                                     fontName: 'Poppins',
                                     backgroundColor: themes,
                                     vAxis: {
@@ -378,7 +378,7 @@
                                 options = {
                                     chartArea: { left: 30, top: 10, width: '90%', height: '80%' },
                                     curveType: 'function',
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes,
                                     vAxis: {
@@ -454,7 +454,7 @@
                                     legend: {
                                         position: 'bottom'
                                     },
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes
                                 }
@@ -467,7 +467,7 @@
                                     legend: {
                                         position: 'bottom',
                                     },
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes
                                 }
@@ -476,7 +476,7 @@
                             case "column":
                                 options = {
                                     chartArea: { left: 30, top: 10, width: '100%', height: '80%' },
-                                    colors: ["#e54d61"],
+                                    colors: ["#2cb3e8 "],
                                     fontName: 'Poppins',
                                     backgroundColor: themes
                                 }
@@ -486,7 +486,7 @@
                                 options = {
                                     chartArea: { left: 30, top: 10, width: '90%', height: '80%' },
                                     curveType: 'function',
-                                    colors: ["#e54d61", "#f60e0e", "#ffa000"],
+                                    colors: ["#2cb3e8 ", "#f60e0e", "#ffa000"],
                                     fontName: 'Poppins',
                                     backgroundColor: themes
                                 }

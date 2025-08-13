@@ -424,25 +424,25 @@
     <div class="container">
         <div class="benefit-block md:py-[60px] py-10 border-b border-line">
             <div class="list-benefit grid items-start lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-[30px]">
-                <div style="color: #f78259;font-weight: bolder;text-align: center;"
+                <div style="color: #2cb3e8;font-weight: bolder;text-align: center;"
                     class="benefit-item flex flex-col justify-center">
                     <i class="icon-phone-call lg:text-7xl text-5xl"></i>
                     <div class="heading6 mt-5">@lang('home.customer_service')</div>
                     <div class="caption1 text-secondary mt-3">@lang('home.customer_service_desc')</div>
                 </div>
-                <div style="color: #f78259;font-weight: bolder;text-align: center;"
+                <div style="color: #2cb3e8;font-weight: bolder;text-align: center;"
                     class="benefit-item flex flex-col justify-center">
                     <i class="icon-return lg:text-7xl text-5xl"></i>
                     <div class="heading6 mt-5">@lang('home.money_back')</div>
                     <div class="caption1 text-secondary mt-3">@lang('home.money_back_desc')</div>
                 </div>
-                <div style="color: #f78259;font-weight: bolder;text-align: center;"
+                <div style="color: #2cb3e8;font-weight: bolder;text-align: center;"
                     class="benefit-item flex flex-col justify-center">
                     <i class="icon-guarantee lg:text-7xl text-5xl"></i>
                     <div class="heading6 mt-5">@lang('home.guarantee')</div>
                     <div class="caption1 text-secondary mt-3">@lang('home.guarantee_desc')</div>
                 </div>
-                <div style="color: #f78259;font-weight: bolder;text-align: center;"
+                <div style="color: #2cb3e8;font-weight: bolder;text-align: center;"
                     class="benefit-item flex flex-col justify-center">
                     <i class="icon-delivery-truck lg:text-7xl text-5xl"></i>
 
@@ -863,16 +863,16 @@
         transition: background-color 0.3s;
     }
     .pagination li a:hover {
-        background: #f78259;
+        background: #2cb3e8;
         color: #fff;
     }
     .pagination li.active span {
-        background: #f78259;
+        background: #2cb3e8;
         color: #fff;
-        border-color: #f78259;
+        border-color: #2cb3e8;
     }
     .text-sel{
-        color: #e54d61;
+        color: #2cb3e8 ;
         font-weight: bold;
     }
 </style>

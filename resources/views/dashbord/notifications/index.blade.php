@@ -19,7 +19,7 @@
                     <li class="list-group-item d-flex justify-content-between align-items-center {{ $notification->is_read ? '' : 'list-group-item-warning' }}">
                         <div>
                             <a href="{{ route($notification->url) ?? '#' }}" class="font-weight-bold" style="color: black !important;"> 
-                                <i  style="color: #e54d61 !important;" class="fa fa-bell text-primary"></i>  {{ $notification->message }}
+                                <i  style="color: #2cb3e8  !important;" class="fa fa-bell text-primary"></i>  {{ $notification->message }}
                             </a>
                             <p class="mb-0 text-muted small">{{ $notification->created_at->format('F j, Y, g:i a') }}</p>
                         </div>

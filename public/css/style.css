@@ -903,7 +903,7 @@ body {
 }
 
 .bg-yellow {
-    background-color: #e54d61;
+    background-color: #2cb3e8;
 }
 
 
@@ -1452,8 +1452,8 @@ ul.txt-list {
 .scroll .yellow-hover:hover,
 .white-color .yellow-hover:hover {
     color: #333435!important;
-    background-color: #e54d61;
-    border-color: #e54d61!important;
+    background-color: #2cb3e8;
+    border-color: #2cb3e8 !important;
 }
 
 
@@ -1953,7 +1953,7 @@ ul.txt-list {
 .brown-color .yellow-color,
 .coffee-color .yellow-color,
 .yellow-color span {
-    color: #e54d61;
+    color: #2cb3e8;
 }
 
 
@@ -1992,7 +1992,7 @@ ul.txt-list {
 }
 
 .stars-rating i {
-    color: #e54d61;
+    color: #2cb3e8;
     font-size: 0.85rem;
     line-height: 1;
 }
@@ -3013,7 +3013,7 @@ span.item-code {
 
 .navik-menu.navik-yellow ul li:hover>a,
 .navik-menu.navik-yellow .mega-menu-heading a:hover {
-    color: #e54d61;
+    color: #2cb3e8;
 }
 
 .navik-menu.navik-meat ul li:hover>a,
@@ -3049,7 +3049,7 @@ span.item-code {
 }
 
 #header-3 .navik-menu ul li.nav-btn.yellow-color>a {
-    color: #e54d61;
+    color: #2cb3e8;
 }
 
 #header-3 .navik-menu ul li.nav-btn.red-color>a {
