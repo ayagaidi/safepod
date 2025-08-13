@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    {{-- colorico.ico --}}
-    <link rel="icon" type="image/png" sizes="56x56" href="{{ asset('colorico.ico') }}">
+    {{-- logo.ico --}}
+    <link rel="icon" type="image/png" sizes="56x56" href="{{ asset('logo.ico') }}">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>safePod-@yield('title')</title>
@@ -136,7 +136,7 @@
     <div class="main-menu">
         <header class="header">
             <a href="{{ route('home') }}" class="logo">
-                <img src="{{ asset('mlogo.png') }}" alt="" style="max-width: 40% !important;">
+                <img src="{{ asset('mlogo.png') }}" alt="" style="max-width: 20% !important;">
 
             </a>
             <button type="button" class="button-close fa fa-times js__menu_close"></button>
