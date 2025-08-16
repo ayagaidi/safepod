@@ -100,4 +100,11 @@ return [
     'phone_validation_message' => 'The phone number must start with 091, 092, 094, 095, or 093 and contain 7 digits afterward.',
     'agree_to_terms' => 'I agree to the terms and policies',
     'terms_and_policies' => 'Terms and Policies',
+    'new' => 'New',
+    'compare' => 'Compare',
+    'insufficient_stock' => 'Insufficient stock available',
+    'requested_quantity' => 'Requested quantity',
+    'available_stock' => 'Available stock',
+    'no_search_result' => 'No search results found',
+
 ];

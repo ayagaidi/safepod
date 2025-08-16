@@ -18,4 +18,6 @@ return [
     'no_colors_available' => 'No colors available',
     'no_sizes_available' => 'No sizes available',
     'lyd' => 'LYD',
+    'compare'  => 'Compare',
+    'new=> 'New',
 ];

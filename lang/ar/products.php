@@ -18,4 +18,6 @@ return [
     'no_colors_available' => 'لا توجد ألوان متوفرة',
     'no_sizes_available' => 'لا توجد أحجام متوفرة',
     'lyd' => 'دينار ليبي',
+    'compare'  => 'قارن',
+'new'=> 'جديد',
 ];
